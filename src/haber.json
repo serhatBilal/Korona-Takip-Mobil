@@ -1,0 +1,24 @@
+{"data":
+[      
+    {"id":"0", "baslik":"Covid 19 Haberler", 
+    "icerik":"İlk olarak Çin’in Wuhan bölgesinde, 2019 yılı Aralık ayının başında görülüp, bu bölgedeki yetkililer tarafından tanımlandığı için gayri resmi Wuhan koronavirüsü adıyla da bilinen yeni koronavirüs solunum yolu enfeksiyonuna neden olan ve insandan insana geçebilen bulaşıcı bir virüstür.", 
+    "tarih":"05 ARALIK 2020", 
+    "gorsel":"https://i.sozcu.com.tr/wp-content/uploads/2020/03/30/iecrop/corona-virusu-dha_16_9_1585554356.jpg", 
+    "goruntulenme":100},
+    {"id":"0", "baslik":"Covid 19 Haberleri 1", 
+        "icerik":"Yeni koronavirüs hastalığı (Covid-19), ilk olarak 13 Ocak 2020 tarihinde Çin’in Vuhan eyaletinde yüksek ateş ve nefes darlığı ile tanımlanan yeni viral solunum yolu hastalığıdır. Hastalığın damlacık ve temas yoluyla bulaştığı bilinmektedir. Oluşturduğu küresel salgın durumundan ötürü pandemi olarak tanımlanmaktadır.", 
+        "tarih":"04 ARALIK 2020", 
+        "gorsel":"https://armatorlerbirligi.org.tr/wp-content/uploads/2020/10/DUYURU.jpg", 
+        "goruntulenme":105},
+        {"id":"0", "baslik":"Covid19 Türkiye Resmi Sitesi", 
+            "icerik":"https://covid19.saglik.gov.tr/", 
+            "tarih":"03 ARALIK 2020", 
+            "gorsel":"https://iasbh.tmgrup.com.tr/eb8e42/650/344/0/0/1138/597?u=https://isbh.tmgrup.com.tr/sbh/2020/11/14/son-dakika-haberi-bakan-koca-14-kasim-corona-virusu-hasta-ve-vefat-sayilarini-acikladi-turkiye-koronavirus-son-durum-tablosu-1605364044963.jpeg", 
+            "goruntulenme":150},
+            {"id":"0", "baslik":"Sağlık Bakanlığı Resmi Sitesi", 
+                "icerik":"https://saglik.gov.tr/", 
+                "tarih":"19 Kasım 2020", 
+                "gorsel":"https://www.dw.com/image/52699780_401.jpg", 
+                "goruntulenme":302}                        
+]    
+}
